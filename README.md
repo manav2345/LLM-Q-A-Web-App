@@ -6,4 +6,4 @@ Example used:
 Url-https://timesofindia.indiatimes.com/india/three-families-destroyed-pm-modi-attacks-cong-pdp-nc-in-jk-doda-ahead-of-assembly-elections/articleshow/113345720.cms
 
 Question-What are a total number of Assembly constituencies in Jammu and Kashmir
-![image](https://github.com/user-attachments/assets/86a1b009-30fb-4be2-b2fa-152347bcd04a)
+![image](https://github.com/user-attachments/assets/b179797b-7074-4553-b4c4-d7d1cf300e6f)
